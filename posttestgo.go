@@ -1,4 +1,4 @@
-package post05
+package posttestgo
 
 import (
 	"database/sql"
